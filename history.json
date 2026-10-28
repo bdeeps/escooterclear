@@ -1,0 +1,780 @@
+{
+  "title": "The history of the electric scooter",
+  "tagline": "Two hundred years from Faraday's spinning wire to millions of Indian scooters with a motor in the back wheel.",
+  "intro": "The electric scooter needed three inventions: a motor, a battery you can recharge, and electronics to link them. The motor came first, in 1821, and inventors were fitting motors inside bicycle wheels by 1895. But lead-acid batteries were heavy, and petrol won the century. Then transistors replaced brushes, neodymium magnets made motors strong and light, and the lithium-ion cell packed energy into a small can. In India, government schemes paid part of the price, and fires in 2022 made battery safety rules much stricter.",
+  "eras": [
+    {
+      "id": "spark",
+      "name": "Motors and batteries are born",
+      "from": 1820,
+      "to": 1900,
+      "color": "#c49bff",
+      "summary": "Scientists make the first electric motors and the first rechargeable battery, and inventors bolt them onto tricycles and bicycles."
+    },
+    {
+      "id": "wheel",
+      "name": "Motors in the wheel",
+      "from": 1895,
+      "to": 1960,
+      "color": "#ffb547",
+      "summary": "Patents put the motor inside the wheel hub, but heavy lead-acid batteries keep electric two-wheelers a curiosity while petrol takes over."
+    },
+    {
+      "id": "chip",
+      "name": "Magnets, chips and lithium",
+      "from": 1960,
+      "to": 1995,
+      "color": "#8ef0ff",
+      "summary": "Transistors replace brushes, powerful neodymium magnets arrive, and the lithium-ion cell is invented and sold."
+    },
+    {
+      "id": "boom",
+      "name": "Electric two-wheelers take off",
+      "from": 1993,
+      "to": 2017,
+      "color": "#5ce1a9",
+      "summary": "Pedal-assist bikes in Japan, hundreds of millions of e-bikes in China, and India's first electric scooters, many on lead-acid batteries."
+    },
+    {
+      "id": "india",
+      "name": "India goes electric",
+      "from": 2015,
+      "to": 2026,
+      "color": "#ff7a59",
+      "summary": "Government schemes pay part of the price, lithium-ion scooters spread, fires in 2022 bring tougher battery rules, and shared kick scooters fill city streets worldwide."
+    }
+  ],
+  "events": [
+    {
+      "year": 1821,
+      "date": "September 1821",
+      "era": "spark",
+      "art": "magnet",
+      "key": true,
+      "title": "A wire that spins round a magnet",
+      "who": "Michael Faraday",
+      "where": "Royal Institution, London",
+      "country": "United Kingdom",
+      "text": "Faraday hung a wire carrying current next to a magnet in a cup of mercury, and the wire went round and round. It was the first device to turn electricity into continuous motion.",
+      "why": "Every electric scooter motor still works by the push between a current and a magnet.",
+      "box": "motor",
+      "sources": [
+        2
+      ]
+    },
+    {
+      "year": 1837,
+      "date": "1837",
+      "era": "spark",
+      "art": "motor",
+      "title": "The first patented electric motor",
+      "who": "Thomas Davenport",
+      "where": "Vermont",
+      "country": "United States",
+      "text": "Davenport, a blacksmith, built a rotating motor with electromagnets and received a US patent in 1837. Batteries of the day were too weak and costly for it to succeed in business.",
+      "why": "It showed motors could do real work; batteries had to catch up.",
+      "sources": [
+        10
+      ]
+    },
+    {
+      "year": 1859,
+      "date": "1859",
+      "era": "spark",
+      "art": "battery",
+      "title": "The rechargeable battery",
+      "who": "Gaston Planté",
+      "where": "Paris",
+      "country": "France",
+      "text": "Planté rolled two lead sheets with a separator into acid and found he could charge and recharge the cell. Improved lead-acid batteries powered the first electric vehicles and early Indian electric scooters.",
+      "why": "For a century, lead-acid was the only practical rechargeable battery.",
+      "sources": [
+        4
+      ]
+    },
+    {
+      "year": 1881,
+      "date": "April 1881",
+      "era": "spark",
+      "art": "velocipede",
+      "title": "An electric tricycle on the streets of Paris",
+      "who": "Gustave Trouvé",
+      "where": "Paris",
+      "country": "France",
+      "text": "Trouvé fitted a small motor of his own design and rechargeable lead-acid batteries to an English tricycle and drove it along a Paris street. It is often called the first electric vehicle of its kind.",
+      "why": "The basic recipe of battery, motor and wheels was in place.",
+      "sources": [
+        3
+      ]
+    },
+    {
+      "year": 1895,
+      "date": "31 December 1895",
+      "era": "wheel",
+      "art": "bicycle",
+      "key": true,
+      "title": "A motor inside the back wheel",
+      "who": "Ogden Bolton Jr.",
+      "where": "Canton, Ohio",
+      "country": "United States",
+      "text": "Bolton was granted a US patent for a battery-powered bicycle with a direct-current motor built into the hub of the rear wheel, the battery hung under the frame. Whether it was ever made for sale is not known.",
+      "why": "It is the ancestor of the hub motor in today's scooters.",
+      "box": "motor",
+      "sources": [
+        1,
+        0
+      ]
+    },
+    {
+      "year": 1897,
+      "date": "1897",
+      "era": "wheel",
+      "art": "bicycle",
+      "title": "Two motors and a choice of batteries",
+      "who": "Hosea W. Libbey",
+      "where": "Boston",
+      "country": "United States",
+      "text": "Libbey patented an electric bicycle driven by a double motor set in the crank hub (attributed; early e-bike patents came thick and fast in the 1890s).",
+      "why": "Inventors tried many places for the motor: hub, crank and belt.",
+      "sources": [
+        0
+      ]
+    },
+    {
+      "year": 1900,
+      "date": "1900",
+      "era": "wheel",
+      "art": "oldcar",
+      "title": "Hub motors on a car",
+      "who": "Ferdinand Porsche, Lohner",
+      "where": "Paris World Exhibition",
+      "country": "Austria",
+      "text": "The Lohner–Porsche car shown in Paris had electric motors inside its front wheel hubs, with no gears or chains. It was heavy, because of its lead-acid batteries.",
+      "why": "The in-wheel motor idea reached cars; scooters use it today.",
+      "sources": [
+        5
+      ]
+    },
+    {
+      "year": 1962,
+      "date": "1962",
+      "era": "chip",
+      "art": "chip",
+      "title": "Switches instead of brushes",
+      "who": "T. G. Wilson and P. H. Trickey",
+      "where": "United States",
+      "country": "United States",
+      "text": "Wilson and Trickey described a DC machine with 'solid-state commutation': transistors, not rubbing brushes, switched the current in its coils (widely cited as the start of the brushless DC motor).",
+      "why": "The controller in every e-scooter does this switching.",
+      "box": "motor",
+      "sources": [
+        6
+      ]
+    },
+    {
+      "year": 1976,
+      "date": "1976",
+      "era": "chip",
+      "art": "battery",
+      "title": "A lithium battery that recharges",
+      "who": "M. Stanley Whittingham",
+      "where": "Exxon, New Jersey",
+      "country": "United States",
+      "text": "Whittingham built a rechargeable lithium battery with a titanium disulphide electrode that stored lithium ions between its layers. It gave about 2 V but lithium metal made it risky.",
+      "why": "It started the race to the lithium-ion cell.",
+      "sources": [
+        7
+      ]
+    },
+    {
+      "year": 1980,
+      "date": "1980",
+      "era": "chip",
+      "art": "flask",
+      "title": "A better cathode: cobalt oxide",
+      "who": "John B. Goodenough",
+      "where": "University of Oxford",
+      "country": "United Kingdom",
+      "text": "Goodenough's team showed that lithium cobalt oxide could take in and give out lithium ions at about 4 V, nearly twice Whittingham's battery.",
+      "why": "Higher voltage means more energy in every cell.",
+      "box": "pack",
+      "sources": [
+        7
+      ]
+    },
+    {
+      "year": 1984,
+      "date": "1982–1984",
+      "era": "chip",
+      "art": "magnet",
+      "title": "Neodymium magnets",
+      "who": "Masato Sagawa (Sumitomo) and John Croat (General Motors)",
+      "where": "Japan and United States",
+      "country": "Japan",
+      "text": "Two teams independently found that an alloy of neodymium, iron and boron makes the strongest permanent magnets known. They were announced in 1984.",
+      "why": "Strong, light magnets make small hub motors powerful.",
+      "box": "motor",
+      "sources": [
+        8
+      ]
+    },
+    {
+      "year": 1985,
+      "date": "1985",
+      "era": "chip",
+      "art": "battery",
+      "key": true,
+      "title": "The first lithium-ion cell",
+      "who": "Akira Yoshino",
+      "where": "Asahi Kasei, Kawasaki",
+      "country": "Japan",
+      "text": "Yoshino paired Goodenough's cathode with a carbon anode that holds lithium ions, with no lithium metal at all. The cell was lighter, safer and could be recharged hundreds of times.",
+      "why": "This is the cell inside every e-scooter pack.",
+      "box": "pack",
+      "sources": [
+        7,
+        9
+      ]
+    },
+    {
+      "year": 1991,
+      "date": "1991",
+      "era": "chip",
+      "art": "battery",
+      "title": "Lithium-ion goes on sale",
+      "who": "Sony and Asahi Kasei",
+      "where": "Japan",
+      "country": "Japan",
+      "text": "Sony began selling lithium-ion cells in 1991, first for video cameras and then phones and laptops.",
+      "why": "Mass production made the cells cheap enough, decades later, for vehicles.",
+      "sources": [
+        9
+      ]
+    },
+    {
+      "year": 1993,
+      "date": "1993",
+      "era": "boom",
+      "art": "bicycle",
+      "title": "The power-assist bicycle",
+      "who": "Yamaha",
+      "where": "Japan",
+      "country": "Japan",
+      "text": "Yamaha launched the PAS, a bicycle whose motor helps only while you pedal. Pedal-assist e-bikes, limited to about 24–25 km/h, became a big market in Japan and later Europe.",
+      "why": "Low-speed, low-power electric bikes got their own rules.",
+      "sources": [
+        0
+      ]
+    },
+    {
+      "year": 2000,
+      "date": "c. 2000–2010",
+      "era": "boom",
+      "art": "bicycle",
+      "title": "Hundreds of millions of e-bikes in China",
+      "who": "Chinese makers and city authorities",
+      "where": "China",
+      "country": "China",
+      "text": "As some Chinese cities restricted petrol motorcycles, cheap electric bikes and scooters with hub motors and lead-acid batteries spread fast; China became by far the largest e-two-wheeler market.",
+      "why": "It made hub motors and controllers cheap for the world.",
+      "sources": [
+        0
+      ]
+    },
+    {
+      "year": 2015,
+      "date": "1 April 2015",
+      "era": "india",
+      "art": "scales",
+      "key": true,
+      "title": "India's FAME scheme",
+      "who": "Ministry of Heavy Industries",
+      "where": "New Delhi",
+      "country": "India",
+      "text": "FAME India (Faster Adoption and Manufacturing of Hybrid and Electric Vehicles) began paying part of the price of electric and hybrid vehicles, including two-wheelers.",
+      "why": "It was the first national push to make Indians buy electric.",
+      "box": "safety",
+      "sources": [
+        11
+      ]
+    },
+    {
+      "year": 2017,
+      "date": "September 2017",
+      "era": "india",
+      "art": "share",
+      "title": "Shared e-scooters by the minute",
+      "who": "Bird and other start-ups",
+      "where": "Santa Monica, California",
+      "country": "United States",
+      "text": "Dockless electric kick scooters that anyone could unlock with a phone appeared in Santa Monica in 2017 and spread to hundreds of cities within two years. Many cities later capped their speed or limited them.",
+      "why": "Kick scooters became an everyday sight, and a new rule-making headache.",
+      "sources": [
+        26,
+        25
+      ]
+    },
+    {
+      "year": 2019,
+      "date": "1 April 2019",
+      "era": "india",
+      "art": "scales",
+      "title": "FAME II: money per kWh",
+      "who": "Ministry of Heavy Industries",
+      "where": "New Delhi",
+      "country": "India",
+      "text": "FAME II started with an outlay of ₹10,000 crore. Electric two-wheelers got ₹10,000 per kWh of battery, so a bigger pack earned a bigger incentive, for scooters that met range, speed and local-content rules.",
+      "why": "Paying by battery size tied the subsidy to the part that matters most.",
+      "box": "safety",
+      "sources": [
+        11
+      ]
+    },
+    {
+      "year": 2019,
+      "date": "9 October 2019",
+      "era": "india",
+      "art": "trophy",
+      "key": true,
+      "title": "Nobel Prize for the lithium-ion battery",
+      "who": "John B. Goodenough, M. Stanley Whittingham, Akira Yoshino",
+      "where": "Stockholm",
+      "country": "Sweden",
+      "text": "The three shared the Nobel Prize in Chemistry 'for the development of lithium-ion batteries'. Goodenough, at 97, became the oldest Nobel laureate.",
+      "why": "The cell in your scooter earned science's top prize.",
+      "box": "pack",
+      "sources": [
+        7
+      ]
+    },
+    {
+      "year": 2021,
+      "date": "June 2021",
+      "era": "india",
+      "art": "scales",
+      "title": "Subsidy raised to ₹15,000 per kWh",
+      "who": "Ministry of Heavy Industries",
+      "where": "New Delhi",
+      "country": "India",
+      "text": "The FAME II incentive for electric two-wheelers rose from ₹10,000 to ₹15,000 per kWh, capped at 40% of the vehicle's cost, and the scheme was extended to March 2024. Sales of electric scooters rose sharply.",
+      "why": "Cheaper scooters brought electric two-wheelers to the mass market.",
+      "sources": [
+        13,
+        11
+      ]
+    },
+    {
+      "year": 2021,
+      "date": "1 June 2021",
+      "era": "india",
+      "art": "person",
+      "title": "BIS-certified helmets only",
+      "who": "Ministry of Road Transport and Highways",
+      "where": "New Delhi",
+      "country": "India",
+      "text": "A quality control order made BIS certification to IS 4151:2015 compulsory for two-wheeler riders' helmets; selling uncertified ones became an offence.",
+      "why": "Every e-scooter rider and pillion must wear a certified helmet.",
+      "box": "safety",
+      "sources": [
+        24
+      ]
+    },
+    {
+      "year": 2022,
+      "date": "March–April 2022",
+      "era": "india",
+      "art": "flame",
+      "key": true,
+      "title": "A string of scooter fires",
+      "who": "Several makers' electric scooters",
+      "where": "Pune, Vellore and other cities",
+      "country": "India",
+      "text": "Several electric scooters caught fire in a few weeks, some while charging, and lives were lost. MoRTH set up an expert committee, and DRDO's fire-safety centre (CFEES) investigated; reports pointed to cell, BMS and pack-design faults.",
+      "why": "It showed how much depends on good cells, a good BMS and testing.",
+      "box": "safety",
+      "sources": [
+        16,
+        27
+      ]
+    },
+    {
+      "year": 2022,
+      "date": "21 April 2022",
+      "era": "india",
+      "art": "plug",
+      "title": "A draft battery-swapping policy",
+      "who": "NITI Aayog",
+      "where": "New Delhi",
+      "country": "India",
+      "text": "After a Budget promise in February 2022, NITI Aayog published a draft policy for swapping a flat battery for a charged one at a station, with interoperability standards. It was a draft for public comment.",
+      "why": "Swapping could turn hours of charging into minutes.",
+      "sources": [
+        17
+      ]
+    },
+    {
+      "year": 2022,
+      "date": "Sept 2022 (in force 1 Dec 2022 and 31 Mar 2023)",
+      "era": "india",
+      "art": "bolt",
+      "key": true,
+      "title": "Tougher battery rules: AIS-156",
+      "who": "Ministry of Road Transport and Highways",
+      "where": "New Delhi",
+      "country": "India",
+      "text": "MoRTH amended the AIS-156 standard for electric two- and three-wheelers. Phase 1, from 1 December 2022, added traceable cells, cell spacing, a microcontroller BMS and an extra fuse; Phase 2, from 31 March 2023, added temperature sensors and a warning for thermal events.",
+      "why": "Every new scooter's pack must pass these tests.",
+      "box": "safety",
+      "sources": [
+        14,
+        15
+      ]
+    },
+    {
+      "year": 2023,
+      "date": "1 June 2023",
+      "era": "india",
+      "art": "scales",
+      "title": "Subsidy cut",
+      "who": "Ministry of Heavy Industries",
+      "where": "New Delhi",
+      "country": "India",
+      "text": "The FAME II incentive for electric two-wheelers fell to ₹10,000 per kWh and the cap to 15% of the ex-factory price.",
+      "why": "Scooter prices rose; makers began cutting costs and adding cheaper models.",
+      "sources": [
+        12,
+        13
+      ]
+    },
+    {
+      "year": 2023,
+      "date": "2 April 2023",
+      "era": "india",
+      "art": "share",
+      "title": "Paris votes out rental e-scooters",
+      "who": "Paris residents",
+      "where": "Paris",
+      "country": "France",
+      "text": "In a city vote, Parisians chose to end shared rental e-scooters; the operators left the city that September.",
+      "why": "Cities kept debating where kick scooters belong.",
+      "sources": [
+        25
+      ]
+    },
+    {
+      "year": 2024,
+      "date": "11 September 2024",
+      "era": "india",
+      "art": "scales",
+      "key": true,
+      "title": "PM E-DRIVE",
+      "who": "Union Cabinet, Ministry of Heavy Industries",
+      "where": "New Delhi",
+      "country": "India",
+      "text": "The Cabinet approved PM E-DRIVE with an outlay of ₹10,900 crore, replacing FAME II and a stop-gap scheme (EMPS 2024). Electric two-wheelers got ₹5,000 per kWh, capped at ₹10,000, in its first year, then ₹2,500 per kWh, capped at ₹5,000.",
+      "why": "Incentives began to taper as electric scooters got cheaper.",
+      "box": "safety",
+      "sources": [
+        18,
+        19
+      ]
+    },
+    {
+      "year": 2026,
+      "date": "2026",
+      "era": "india",
+      "art": "scales",
+      "title": "Incentives extended to 2028; low-speed rules reviewed",
+      "who": "Ministry of Heavy Industries; MoRTH",
+      "where": "New Delhi",
+      "country": "India",
+      "text": "The government extended PM E-DRIVE's two-wheeler incentive to 31 March 2028 at ₹2,500 per kWh, capped at ₹5,000 (as reported). In August 2026 MoRTH also published a draft to raise the motor power limit for registration-free low-speed vehicles from 250 W to 600 W, keeping 25 km/h (a draft, not yet final when this box was made).",
+      "why": "The rules are still being written as the technology changes.",
+      "sources": [
+        19,
+        23
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "Continuous electromagnetic rotation",
+      "value": "1821",
+      "who": "Michael Faraday, England"
+    },
+    {
+      "label": "Rechargeable battery",
+      "value": "1859",
+      "who": "Gaston Planté, France"
+    },
+    {
+      "label": "Electric bicycle with a hub motor (patent)",
+      "value": "1895",
+      "who": "Ogden Bolton Jr., USA"
+    },
+    {
+      "label": "Brushless motor with transistor switching",
+      "value": "1962",
+      "who": "T. G. Wilson and P. H. Trickey, USA (widely cited)"
+    },
+    {
+      "label": "Lithium-ion cell",
+      "value": "1985",
+      "who": "Akira Yoshino, Japan"
+    },
+    {
+      "label": "Lithium-ion cells on sale",
+      "value": "1991",
+      "who": "Sony, Japan"
+    },
+    {
+      "label": "India's national EV incentive (FAME)",
+      "value": "2015",
+      "who": "Ministry of Heavy Industries, India"
+    }
+  ],
+  "people": [
+    {
+      "name": "Michael Faraday",
+      "life": "1791 – 1867",
+      "role": "Physicist and chemist",
+      "from": "England",
+      "note": "Made the first device to turn electric current into continuous motion."
+    },
+    {
+      "name": "Gaston Planté",
+      "life": "1834 – 1889",
+      "role": "Physicist",
+      "from": "France",
+      "note": "Invented the lead-acid battery, the first rechargeable one."
+    },
+    {
+      "name": "Gustave Trouvé",
+      "life": "1839 – 1902",
+      "role": "Electrical engineer",
+      "from": "France",
+      "note": "Drove an electric tricycle through Paris in 1881."
+    },
+    {
+      "name": "Ogden Bolton Jr.",
+      "life": "dates unknown",
+      "role": "Inventor",
+      "from": "USA",
+      "note": "Patented a bicycle with a motor in the rear hub in 1895."
+    },
+    {
+      "name": "M. Stanley Whittingham",
+      "life": "born 1941",
+      "role": "Chemist",
+      "from": "England and USA",
+      "note": "Built the first rechargeable lithium battery in the 1970s."
+    },
+    {
+      "name": "John B. Goodenough",
+      "life": "1922 – 2023",
+      "role": "Physicist and materials scientist",
+      "from": "USA",
+      "note": "Found the cobalt-oxide cathode that doubled lithium cells' voltage."
+    },
+    {
+      "name": "Akira Yoshino",
+      "life": "born 1948",
+      "role": "Chemist",
+      "from": "Japan",
+      "note": "Made the first practical lithium-ion cell in 1985."
+    },
+    {
+      "name": "Masato Sagawa",
+      "life": "born 1943",
+      "role": "Materials scientist",
+      "from": "Japan",
+      "note": "Co-discoverer of the neodymium-iron-boron magnet."
+    }
+  ],
+  "series": [
+    {
+      "id": "subsidy",
+      "title": "Central incentive per kWh for an electric two-wheeler in India",
+      "unit": "₹ per kWh",
+      "log": false,
+      "after": "india",
+      "caption": "Under FAME II, EMPS and PM E-DRIVE, the Government of India paid buyers a fixed amount for each kWh of battery, with a cap per vehicle.",
+      "points": [
+        {
+          "year": 2019,
+          "value": 10000,
+          "label": "FAME II from April 2019: ₹10,000 per kWh, capped at 20% of cost"
+        },
+        {
+          "year": 2021,
+          "value": 15000,
+          "label": "From June 2021: ₹15,000 per kWh, capped at 40%"
+        },
+        {
+          "year": 2023,
+          "value": 10000,
+          "label": "From 1 June 2023: ₹10,000 per kWh, capped at 15%"
+        },
+        {
+          "year": 2024,
+          "value": 5000,
+          "label": "EMPS 2024 and PM E-DRIVE year 1: ₹5,000 per kWh, capped at ₹10,000"
+        },
+        {
+          "year": 2025,
+          "value": 2500,
+          "label": "PM E-DRIVE from April 2025: ₹2,500 per kWh, capped at ₹5,000 (extended to March 2028)"
+        }
+      ]
+    }
+  ],
+  "facts": [
+    "A family e-scooter's battery holds about as much energy as a third of a litre of petrol, yet takes you around a hundred kilometres.",
+    "In a hub motor the magnets turn and the coils stay still, the opposite of most motors you see in fans.",
+    "John Goodenough was 97 when he won the Nobel Prize for the lithium-ion battery, the oldest Nobel laureate ever.",
+    "Stopping from 40 km/h, a scooter and rider hold only about 3 watt-hours of motion energy, less than a fifth of what a smartphone battery stores.",
+    "India's subsidies were paid per kWh of battery, so the battery, not the badge, decided the discount."
+  ],
+  "sources": [
+    {
+      "title": "Electric bicycle",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Electric_bicycle"
+    },
+    {
+      "title": "US Patent 552,271: Electrical bicycle (Ogden Bolton Jr., 1895)",
+      "publisher": "Google Patents",
+      "url": "https://patents.google.com/patent/US552271A/en"
+    },
+    {
+      "title": "Electric motor (history)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Electric_motor"
+    },
+    {
+      "title": "Gustave Trouvé",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gustave_Trouv%C3%A9"
+    },
+    {
+      "title": "Lead–acid battery",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lead%E2%80%93acid_battery"
+    },
+    {
+      "title": "Lohner–Porsche",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lohner%E2%80%93Porsche"
+    },
+    {
+      "title": "Brushless DC electric motor",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Brushless_DC_electric_motor"
+    },
+    {
+      "title": "The Nobel Prize in Chemistry 2019: popular information",
+      "publisher": "NobelPrize.org",
+      "url": "https://www.nobelprize.org/prizes/chemistry/2019/popular-information/"
+    },
+    {
+      "title": "Neodymium magnet",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Neodymium_magnet"
+    },
+    {
+      "title": "Lithium-ion battery",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lithium-ion_battery"
+    },
+    {
+      "title": "Thomas Davenport (inventor)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Thomas_Davenport_(inventor)"
+    },
+    {
+      "title": "Faster Adoption and Manufacturing of Electric Vehicles (FAME)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Faster_Adoption_and_Manufacturing_of_Electric_Vehicles"
+    },
+    {
+      "title": "FAME II subsidy on electric two-wheelers reduced (May 2023)",
+      "publisher": "YourStory",
+      "url": "https://yourstory.com/2023/05/fame-ii-subsidy-reduced-to-15000-from-10000"
+    },
+    {
+      "title": "Electric scooters, bikes to get costlier from June 1 (2023)",
+      "publisher": "Autocar India",
+      "url": "https://www.autocarindia.com/bike-news-amp/electric-scooters-bikes-to-get-costlier-from-june-1-428241"
+    },
+    {
+      "title": "Government extends EV battery safety norms deadline (AIS-156 phases)",
+      "publisher": "Autocar Professional",
+      "url": "https://autocarpro.in/news-national/government-extends-ev-battery-safety-norms-deadline-102906"
+    },
+    {
+      "title": "EV battery testing amendments (MoRTH notice, via ACMA)",
+      "publisher": "ACMA",
+      "url": "https://www.acma.in/uploads/ciculer-attachement/EV%20Battery%20Testing%20amendments.pdf"
+    },
+    {
+      "title": "Serious battery defects in EVs that caught fire: DRDO report",
+      "publisher": "The Tribune",
+      "url": "https://www.tribuneindia.com/news/nation/serious-battery-defects-in-evs-that-caught-fire-drdo-report-397398"
+    },
+    {
+      "title": "NITI Aayog releases draft battery swapping policy",
+      "publisher": "Business Today",
+      "url": "https://www.businesstoday.in/auto/story/niti-aayog-releases-draft-ev-battery-swapping-policy-330690-2022-04-21"
+    },
+    {
+      "title": "Cabinet approves PM E-DRIVE scheme with an outlay of Rs 10,900 crore",
+      "publisher": "PMIndia (Government of India)",
+      "url": "https://www.pmindia.gov.in/en/news_updates/cabinet-approves-pm-electric-drive-revolution-in-innovative-vehicle-enhancement-pm-e-drive-scheme-with-an-outlay-of-rs-10900-crore-over-a-period-of-two-years/"
+    },
+    {
+      "title": "PM E-Drive subsidy for electric two-wheelers extended to March 2028",
+      "publisher": "Autocar India",
+      "url": "https://www.autocarindia.com/industry-amp/pm-e-drive-subsidy-for-electric-two-wheelers-extended-to-march-2028-440459"
+    },
+    {
+      "title": "Micromobility information center: e-bikes, e-scooters and hoverboards",
+      "publisher": "US Consumer Product Safety Commission",
+      "url": "https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Micromobility-Information-Center"
+    },
+    {
+      "title": "CPSC urges consumers not to buy or use universal chargers with micromobility products (2024)",
+      "publisher": "US Consumer Product Safety Commission",
+      "url": "https://www.cpsc.gov/Newsroom/News-Releases/2024/CPSC-Urges-Consumers-to-Not-Buy-or-Use-Universal-Chargers-with-Micromobility-Products-Due-to-Fire-Hazard"
+    },
+    {
+      "title": "Central Motor Vehicles Rules, 1989 (rule 2(u), battery-operated vehicles)",
+      "publisher": "CAG / Government of India",
+      "url": "https://cag.gov.in/uploads/media/Cmvr1989-20200726065919.pdf"
+    },
+    {
+      "title": "MoRTH draft raises power limit for low-speed EVs (2026)",
+      "publisher": "GKToday",
+      "url": "https://www.gktoday.in/morth-draft-raises-power-limit-for-low-speed-evs"
+    },
+    {
+      "title": "Proper implementation of the Quality Control Order on helmets",
+      "publisher": "Department of Consumer Affairs",
+      "url": "https://consumeraffairs.nic.in/sites/default/files/file-uploads/latestnews/Proper%20implementation%20of%20Quality%20Control%20Order%20%28QCO%29%20on%20helmets%20by%20District%20MagistratesDistrict%20Collectors.pdf"
+    },
+    {
+      "title": "Electric kick scooter",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Electric_kick_scooter"
+    },
+    {
+      "title": "Bird Global",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bird_Global"
+    },
+    {
+      "title": "Why e-scooters are catching fire in India: DRDO investigation",
+      "publisher": "Circuit Digest",
+      "url": "https://circuitdigest.com/news/why-e-scooters-catching-fire-in-india-explains-drdo-in-its-investigation-report"
+    }
+  ]
+}

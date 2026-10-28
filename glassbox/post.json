@@ -1,0 +1,126 @@
+{
+  "slug": "escooterclear",
+  "box": 188,
+  "question": "How do electric scooters work?",
+  "url": "https://glassbox.how/e/escooterclear/",
+  "app": "https://glassbox.how/escooterclear/",
+  "assets": {
+    "reel": "reel.mp4",
+    "video": "video.mp4",
+    "cover": "cover.jpg",
+    "thumb": "thumb.jpg",
+    "still": "still.jpg",
+    "historyReel": "history-reel.mp4",
+    "historySlides": [
+      "history-slide-1.jpg",
+      "history-slide-2.jpg",
+      "history-slide-3.jpg",
+      "history-slide-4.jpg",
+      "history-slide-5.jpg",
+      "history-slide-6.jpg",
+      "history-slide-7.jpg",
+      "history-slide-8.jpg",
+      "history-slide-9.jpg",
+      "history-slide-10.jpg"
+    ],
+    "slides": [
+      "slide-1.jpg",
+      "slide-2.jpg",
+      "slide-3.jpg",
+      "slide-4.jpg",
+      "slide-5.jpg",
+      "slide-6.jpg",
+      "slide-7.jpg",
+      "slide-8.jpg",
+      "slide-9.jpg",
+      "slide-10.jpg"
+    ]
+  },
+  "captions": {
+    "history": {
+      "instagram": "Two hundred years from Faraday's spinning wire to millions of Indian scooters with a motor in the back wheel.\n\n1821: A wire that spins round a magnet\n1895: A motor inside the back wheel\n1985: The first lithium-ion cell\n2015: India's FAME scheme\n2019: Nobel Prize for the lithium-ion battery\n2022: A string of scooter fires\n\nThe full story, with 28 moments, sources and charts: glassbox.how/e/escooterclear/history (link in bio)\n\nThen play with how it works: glassbox.how/escooterclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #electricscooter #escooter #ev #electricvehicle #battery #lithiumion #history",
+      "youtube": {
+        "title": "The history of the electric scooter in 45 seconds #shorts",
+        "description": "Two hundred years from Faraday's spinning wire to millions of Indian scooters with a motor in the back wheel.\n\n1821 · A wire that spins round a magnet (Michael Faraday)\n1895 · A motor inside the back wheel (Ogden Bolton Jr.)\n1985 · The first lithium-ion cell (Akira Yoshino)\n2015 · India's FAME scheme (Ministry of Heavy Industries)\n2019 · Nobel Prize for the lithium-ion battery (John B. Goodenough, M. Stanley Whittingham, Akira Yoshino)\n2022 · A string of scooter fires (Several makers' electric scooters)\n\n▶ Full history: https://glassbox.how/e/escooterclear/history/\n▶ Play with it: https://glassbox.how/e/escooterclear/\n\n#glassbox #howitworks #explained #history"
+      }
+    },
+    "instagram": "How do electric scooters work?\n\nAn electric scooter has no engine, no gears and no clutch: just 160 finger-sized cells, a motor hidden inside the back wheel, and a box of switches that flips its coils hundreds of times a second. Take one apart in 3D and see why it costs a few paise per kilometre.\n\n→ An electric scooter has no engine, no fuel tank and no gearbox: just a battery, a motor and a controller.\n→ Cells in parallel add capacity; groups in series add voltage. Sixteen groups of ten make 57.6 volts and 2.88 kWh.\n→ Magnets ride on the wheel; coils sit on the axle. The controller lights the three phases in turn to pull the wheel round.\n→ Current gives torque, even at standstill. Voltage sets the top speed, where back-EMF catches up.\n→ Tyres, air and hills take the energy. Air drag grows with speed squared, so riding fast eats range.\n\nPlay with it yourself. It's free and open source: glassbox.how/escooterclear (link in bio)\n\nBox No. 188 of 365. Follow @glassbox.how for a new \"how it works\" every day.\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #electricscooter #escooter #ev #electricvehicle #battery #lithiumion #bldcmotor #hubmotor #bms",
+    "carousel": "Swipe through: How do electric scooters work?\n\nAn electric scooter has no engine, no gears and no clutch: just 160 finger-sized cells, a motor hidden inside the back wheel, and a box of switches that flips its coils hundreds of times a second. Take one apart in 3D and see why it costs a few paise per kilometre.\n\nSave this for later, then play with the interactive version at glassbox.how/escooterclear (link in bio).\n\nBox No. 188 · @glassbox.how\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #electricscooter #escooter #ev #electricvehicle #battery #lithiumion",
+    "youtube": {
+      "title": "How do electric scooters work? #shorts",
+      "description": "An electric scooter has no engine, no gears and no clutch: just 160 finger-sized cells, a motor hidden inside the back wheel, and a box of switches that flips its coils hundreds of times a second. Take one apart in 3D and see why it costs a few paise per kilometre.\n\n▶ Play with it: https://glassbox.how/e/escooterclear/\n⌘ Source code (MIT): https://github.com/bdeeps/escooterclear\n\nBox No. 188 of 365 from Glassbox: one open-source interactive explainer every day.\n\n#glassbox #howitworks #explained"
+    },
+    "youtubeLong": {
+      "title": "How do electric scooters work? (interactive explainer)",
+      "description": "An electric scooter has no engine, no gears and no clutch: just 160 finger-sized cells, a motor hidden inside the back wheel, and a box of switches that flips its coils hundreds of times a second. Take one apart in 3D and see why it costs a few paise per kilometre.\n\n▶ Play with the interactive version: https://glassbox.how/e/escooterclear/\n⌘ Source code (MIT): https://github.com/bdeeps/escooterclear\n\nIn this video:\n• Three parts do the work. A battery pack under the floor, a motor built into the rear wheel, and a controller that links them.\n• Cells in series and parallel. One lithium-ion cell gives about 3.6 V.\n• Magnets on the wheel, coils on the axle. The hub motor's drum carries magnets; the fixed stator carries three sets of coils.\n• Where the energy goes. At 40 km/h the scooter needs about 19 Wh per km at the wheel: rolling resistance and, more and more with speed, air drag.\n• Braking back, charging in. Slowing down, the motor works as a generator, but from 40 km/h the motion holds only about 3 Wh, so the friction brakes still do the real stopping.\n• Safety first. After scooter fires in 2022, India added tougher battery tests to the AIS-156 standard: smarter BMS, cell spacing, extra fuses, temperature sensors and an overheat warning.\n\nGlassbox opens one box a day: an interactive model of how something works, plus the code behind it.\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+    },
+    "short": "How do electric scooters work?\n\nAn electric scooter has no engine, no gears and no clutch: just 160 finger-sized cells, a motor hidden inside the back wheel, and a box of switches that flips its coils hundreds of times a second.\n\nPlay with it: https://glassbox.how/e/escooterclear/",
+    "linkedin": "How do electric scooters work?\n\nAn electric scooter has no engine, no gears and no clutch: just 160 finger-sized cells, a motor hidden inside the back wheel, and a box of switches that flips its coils hundreds of times a second. Take one apart in 3D and see why it costs a few paise per kilometre.\n\n1. Three parts do the work\n2. Cells in series and parallel\n3. Magnets on the wheel, coils on the axle\n4. Where the energy goes\n5. Braking back, charging in\n6. Safety first\n\nI built an interactive, open-source explainer so you can pull the levers yourself. It's box No. 188 in my one-a-day project, Glassbox.\n\nTry it: https://glassbox.how/e/escooterclear/\nCode: https://github.com/bdeeps/escooterclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+  },
+  "schedule": {
+    "at": "2026-10-28T13:00:00.000Z"
+  },
+  "targets": [
+    {
+      "service": "instagram",
+      "kind": "reel",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "carousel",
+      "offsetHours": 4,
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "short",
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "linkedin",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "twitter",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "threads",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "tiktok",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "history-reel",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "youtube",
+      "kind": "history-short",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "instagram",
+      "kind": "history-carousel",
+      "offsetHours": 6,
+      "enabled": false
+    }
+  ],
+  "thumbnailOffsetMs": 1200,
+  "updatedAt": "2026-10-28T09:15:01.480Z"
+}

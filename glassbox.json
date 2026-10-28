@@ -1,0 +1,110 @@
+{
+  "slug": "escooterclear",
+  "box": 188,
+  "date": "2026-10-24",
+  "title": "EScooterClear",
+  "question": "How do electric scooters work?",
+  "hook": "An electric scooter has no engine, no gears and no clutch: just 160 finger-sized cells, a motor hidden inside the back wheel, and a box of switches that flips its coils hundreds of times a second. Take one apart in 3D and see why it costs a few paise per kilometre.",
+  "thumbText": "HOW AN E-SCOOTER WORKS",
+  "field": "machines",
+  "minutes": 15,
+  "tags": [
+    "electric scooter",
+    "e-scooter",
+    "EV",
+    "electric vehicle",
+    "battery",
+    "lithium-ion",
+    "BLDC motor",
+    "hub motor",
+    "BMS",
+    "regenerative braking",
+    "charging",
+    "India",
+    "FAME",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "Three parts do the work",
+      "text": "A battery pack under the floor, a motor built into the rear wheel, and a controller that links them. There is no engine, fuel tank, gearbox, clutch or exhaust. Brake levers carry cut-off switches, a DC-DC converter makes 12 V for the lights, and a charger turns mains AC into DC for the cells."
+    },
+    {
+      "title": "Cells in series and parallel",
+      "text": "One lithium-ion cell gives about 3.6 V. Ten side by side make a 50 Ah group; sixteen groups in a chain make 57.6 V. That is 57.6 × 50 = 2,880 Wh, or 2.88 kWh. A battery management system watches every group, balances them and cuts the power if anything goes outside safe limits."
+    },
+    {
+      "title": "Magnets on the wheel, coils on the axle",
+      "text": "The hub motor's drum carries magnets; the fixed stator carries three sets of coils. Hall sensors tell the controller where the magnets are, and it switches the phases in six steps so the coils always pull the wheel forward. Torque comes from current, so it is strongest from standstill. Top speed is set by voltage, where the motor's back-EMF catches up."
+    },
+    {
+      "title": "Where the energy goes",
+      "text": "At 40 km/h the scooter needs about 19 Wh per km at the wheel: rolling resistance and, more and more with speed, air drag. About 26 Wh comes from the socket. A 110 cc petrol scooter uses roughly five times as much energy for the same kilometre, because most of its fuel leaves as heat."
+    },
+    {
+      "title": "Braking back, charging in",
+      "text": "Slowing down, the motor works as a generator, but from 40 km/h the motion holds only about 3 Wh, so the friction brakes still do the real stopping. Charging runs at constant current, then constant voltage; the last 20% is slow because the current tapers."
+    },
+    {
+      "title": "Safety first",
+      "text": "After scooter fires in 2022, India added tougher battery tests to the AIS-156 standard: smarter BMS, cell spacing, extra fuses, temperature sensors and an overheat warning. Use only the approved charger, in an earthed socket, in an open place, and never tamper with the BMS, fuses or speed limiter."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Battery pack",
+      "def": "Many lithium-ion cells wired in series and parallel inside a sealed enclosure, with a BMS."
+    },
+    {
+      "term": "BMS",
+      "def": "Battery management system: the circuit that measures every cell group, balances them and cuts the power on over-voltage, under-voltage, over-current or over-temperature."
+    },
+    {
+      "term": "Hub motor",
+      "def": "A brushless motor built into a wheel: magnets on the turning drum, coils on the fixed axle."
+    },
+    {
+      "term": "Controller",
+      "def": "Electronics that turn battery DC into three-phase current for the motor, as much as the throttle asks."
+    },
+    {
+      "term": "Back-EMF",
+      "def": "The voltage a spinning motor generates. It rises with speed and limits how fast the battery can drive it."
+    },
+    {
+      "term": "kWh",
+      "def": "Kilowatt-hour, a unit of energy: volts × amp-hours ÷ 1,000. A typical family e-scooter carries about 2.5–4 kWh."
+    },
+    {
+      "term": "Wh per km",
+      "def": "Energy used per kilometre. Range is usable energy divided by this."
+    },
+    {
+      "term": "Regenerative braking",
+      "def": "Using the motor as a generator to slow down and put some energy back into the battery."
+    },
+    {
+      "term": "CC-CV charging",
+      "def": "Constant current until the cells reach full voltage, then constant voltage while the current tapers off."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "escooterclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}
